@@ -1,6 +1,6 @@
 # MIPS Factorial & Binomial Coefficients
 
-This repository is a project for the **Computer Architecture** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr). It contains several implementations of the factorial function in **MIPS assembly**, as well as applications to the **binomial theorem**.  
+This repository is a project for the **Computer Architecture** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://dit.hua.gr). It contains several implementations of the factorial function in **MIPS assembly**, as well as applications to the **binomial theorem**.  
 The programs demonstrate recursion, stack usage, function calls, and arithmetic operations in MIPS.
 
 ## Contents
